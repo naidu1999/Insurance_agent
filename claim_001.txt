@@ -1,0 +1,50 @@
+CHUBB INSURANCE - CLAIM DOCUMENT
+==================================
+
+Claim ID: CLM-2024-00123
+Date of Filing: 2024-03-15
+Policy Number: POL-789456
+
+POLICYHOLDER INFORMATION
+-------------------------
+Name: Rajesh Kumar
+Policy Type: Commercial Property Insurance
+Coverage Amount: $500,000
+Premium Status: Active
+Policy Start Date: 2023-01-01
+Policy End Date: 2025-01-01
+
+INCIDENT DETAILS
+-----------------
+Date of Incident: 2024-03-10
+Type of Incident: Fire Damage
+Location: Warehouse Unit 4B, Industrial Area, Bangalore
+Description: Fire broke out in the storage unit due to electrical short circuit.
+             Approximately 60% of stored goods were damaged or destroyed.
+             Fire department arrived within 20 minutes and controlled the blaze.
+
+DAMAGE ASSESSMENT
+------------------
+Property Damage: $120,000
+Inventory Loss: $85,000
+Business Interruption Loss: $30,000
+Total Claimed Amount: $235,000
+
+SUPPORTING DOCUMENTS
+---------------------
+- Fire Department Report: Attached (FD-2024-0315)
+- Police Report: Attached (PR-2024-0312)
+- Property Valuation Report: Attached
+- Photographs of Damage: 24 photos attached
+
+WITNESS INFORMATION
+--------------------
+Name: Suresh Mehta
+Contact: +91-9876543210
+Statement: Confirmed electrical fault as cause of fire
+
+CLAIMANT DECLARATION
+---------------------
+I hereby declare that the information provided is true and accurate to the best of my knowledge.
+Signature: Rajesh Kumar
+Date: 2024-03-15

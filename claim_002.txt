@@ -1,0 +1,51 @@
+CHUBB INSURANCE - CLAIM DOCUMENT
+==================================
+
+Claim ID: CLM-2024-00456
+Date of Filing: 2024-03-20
+Policy Number: POL-112233
+
+POLICYHOLDER INFORMATION
+-------------------------
+Name: Vikram Singh
+Policy Type: Personal Property Insurance
+Coverage Amount: $50,000
+Premium Status: Active
+Policy Start Date: 2024-02-01
+Policy End Date: 2025-02-01
+
+INCIDENT DETAILS
+-----------------
+Date of Incident: 2024-03-18
+Type of Incident: Theft
+Location: Residential Apartment, MG Road, Bangalore
+Description: Claimant reports theft of jewelry and electronics during alleged
+             burglary while away for the weekend. No signs of forced entry
+             reported by police. Neighbors report no unusual activity.
+
+DAMAGE ASSESSMENT
+------------------
+Jewelry Loss: $28,000
+Electronics Loss: $15,000
+Cash Loss: $5,000
+Total Claimed Amount: $48,000
+
+SUPPORTING DOCUMENTS
+---------------------
+- Police Report: Attached (PR-2024-0318)
+- Photographs: 3 photos attached
+
+WITNESS INFORMATION
+--------------------
+None provided
+
+CLAIMANT DECLARATION
+---------------------
+I hereby declare that the information provided is true and accurate.
+Signature: Vikram Singh
+Date: 2024-03-20
+
+NOTES
+------
+Policy was taken only 45 days ago. High value claim relative to policy age.
+No forced entry. Minimal documentation provided. No witnesses.
